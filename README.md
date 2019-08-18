@@ -1,7 +1,7 @@
 # Gene-Phenotype-Environment
 Project with Dr. Hayes  
 Step 1: download all .R files;  
-Step 2: switch the folder with downloaded files as the current one;
+Step 2: switch the folder with downloaded files as the current one;  
 Step 3: run R;  
 Step 4: run simulation using source("main.R"), or paste the following parameters into the terminal:  
 library(plotly)  
